@@ -3,5 +3,8 @@
   "private": true,
   "browserslist": [
     "defaults"
-  ]
+  ],
+  "scripts": {
+    "build": "echo 'No JS to build'"
+  }
 }
