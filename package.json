@@ -5,6 +5,7 @@
     "defaults"
   ],
   "scripts": {
-    "build": "echo 'No JS to build'"
+    "build": "echo 'No JS to build'",
+    "build:css": "echo 'No CSS to build'"
   }
 }
